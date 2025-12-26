@@ -9,7 +9,7 @@ Run the following script on your server (Debian or Ubuntu):
 bash <(curl -Ls https://raw.githubusercontent.com/Erfan-XRay/MTPulse/main/MTPulse.sh)
 ```
 ## How to use ?
-Soon
+[Watch on YouTube](https://www.youtube.com/watch?v=V1A14vV-9x4)
 ## ⚙️ Features
 - Add, remove, and manage MTProto proxy
 - Support Ipv4/Ipv6
